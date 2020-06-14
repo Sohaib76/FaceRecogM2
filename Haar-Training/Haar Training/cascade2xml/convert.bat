@@ -1,0 +1,1 @@
+haarconv.exe data osamafacedetector.xml 24 24
